@@ -11,9 +11,9 @@ The goal is to practice basic concepts, build simple programs, and learn Python 
 
 ## Structure
 
-├── Project01/
-├── Project02/
-├── Project03/
+├── Project01/  
+├── Project02/  
+├── Project03/  
 ├── ...
 
 ## Notes
@@ -26,4 +26,4 @@ The goal is to practice basic concepts, build simple programs, and learn Python 
 - Basic terminal/command-line knowledge
 
 ## Status
-Active — Projects are added learning progresses.
+Active — Projects are added as learning progresses.
