@@ -13,9 +13,9 @@ These projects are available on the `python-projects` branch, not the `main` bra
 
 ## Structure
 
-├── Project01/
-├── Project02/
-├── Project03/
+├── Project01/  
+├── Project02/  
+├── Project03/  
 ├── ...
 
 ## Notes
@@ -28,4 +28,4 @@ These projects are available on the `python-projects` branch, not the `main` bra
 - Basic terminal/command-line knowledge
 
 ## Status
-Active — Projects are added learning progresses.
+Active — Projects are added as learning progresses.
