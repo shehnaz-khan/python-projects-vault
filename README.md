@@ -3,6 +3,8 @@
 This repository contains Python projects created while I am learning Python from scratch.  
 The goal is to practice basic concepts, build simple programs, and learn Python through hands-on projects.
 
+## Branch / Location
+These projects are available on the `python-projects` branch, not the `main` branch.
 
 ## What’s Inside
 - Independent Python projects organized in folders
